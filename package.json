@@ -58,7 +58,7 @@
     "@webcrypto-local/server": "^1.0.13",
     "asn1js": "^2.0.26",
     "jose-jwe-jws": "github:microshine/js-jose",
-    "pkijs": "^2.1.82",
+    "pkijs": "^2.1.89",
     "request": "^2.88.0",
     "semver": "^6.3.0",
     "sudo-prompt": "^9.1.1",
