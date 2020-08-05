@@ -62,6 +62,6 @@
     "request": "^2.88.0",
     "semver": "^6.3.0",
     "sudo-prompt": "^9.1.1",
-    "winston": "^3.3.2"
+    "winston": "^3.3.3"
   }
 }
