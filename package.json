@@ -60,7 +60,7 @@
     "jose-jwe-jws": "github:microshine/js-jose",
     "pkijs": "^2.1.82",
     "request": "^2.88.0",
-    "semver": "^6.3.0",
+    "semver": "^7.5.2",
     "sudo-prompt": "^9.1.1",
     "winston": "^3.3.2"
   }
